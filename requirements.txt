@@ -1,0 +1,7 @@
+gradio
+openai
+openai[voice_helpers]
+python-dotenv
+pyaudio
+websocket-client
+python-dotenv
